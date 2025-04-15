@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="ie=edge">
+    <title>Document</title>
+
+    <script>
+
+        var simpleText = "Hello World!";
+
+        var sampleText = "This is some sample text.";
+
+        var sompleText = "Somple isn't a word.";
+
+        window.onload = function () {
+            //If window.onload is called multiple times, only the last version will stick. 
+        }
+
+         //Window.onload is a function that is executed automatically when the document finishes loading.
+        window.onload = function () {
+            //when the document is finished loading, 
+            //find every HTML element with an id of 'myLink' 
+            //and replace the text between the tags with the value of 'simpleText'.
+            document.getElementById("myLink").innerHTML = simpleText;
+
+            document.getElementById("jsTest").innerHTML = sampleText;
+
+            document.getElementById("idTest").innerHTML = sompleText;
+        }        
+
+    </script>
+</head>
+
+<body>
+
+    <a id="myLink" href="studytopics.html" title="Study Topics">This text will be replaced.</a>
+
+    <p id="jsTest"></p>
+
+    <p id="idTest"></p>
+
+</body>
+
+</html>

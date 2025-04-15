@@ -1,0 +1,15 @@
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\bin\Debug\net9.0\ccStudyApp1.exe
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\bin\Debug\net9.0\ccStudyApp1.deps.json
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\bin\Debug\net9.0\ccStudyApp1.runtimeconfig.json
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\bin\Debug\net9.0\ccStudyApp1.dll
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\bin\Debug\net9.0\ccStudyApp1.pdb
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\obj\Debug\net9.0\ccStudyApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\obj\Debug\net9.0\ccStudyApp1.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\obj\Debug\net9.0\ccStudyApp1.AssemblyInfo.cs
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\obj\Debug\net9.0\ccStudyApp1.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\obj\Debug\net9.0\ccStudyApp1.sourcelink.json
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\obj\Debug\net9.0\ccStudyApp1.dll
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\obj\Debug\net9.0\refint\ccStudyApp1.dll
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\obj\Debug\net9.0\ccStudyApp1.pdb
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\obj\Debug\net9.0\ccStudyApp1.genruntimeconfig.cache
+C:\Users\micha\Documents\GitHub\Codecademy\mvakharia.github.io\C#\ccStudyApp1\obj\Debug\net9.0\ref\ccStudyApp1.dll
